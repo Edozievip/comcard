@@ -6,7 +6,7 @@ body{
     height: 550px;
     position: absolute;
     top: 150px;
-    left: 40px;
+    /* left: 40px; */
     clear: both;
 }
 
@@ -15,7 +15,7 @@ body{
     width: 500px;
     content: "";
     position: absolute;
-    left: 550px;
+    left: 450px;
     right: 0;
     height: 65%;
 }
@@ -30,7 +30,7 @@ body{
 .square1::after{
     bottom: 0;
     background-color: white;
-    display: inline-block;
+    /* display: inline-block; */
     border-radius: 0 0 10px 10px;
 }
 
@@ -41,7 +41,7 @@ body{
     width: 200px;
     height: 200px;
     position: relative;
-    left: 740px;
+    left: 600px;
     margin-top: 250px;
 }
 
@@ -52,19 +52,19 @@ body{
 
 h1{
     font-size: 25px;
-    margin-left: 740px;
+    margin-left: 600px;
 }
 
 p{
     font-size: 25px;
-    margin-left: 800px;
+    margin-left: 670px;
 }
 
 table, th, td{
     text-align: center;
     font-size: 25px;
     margin-top: 70px;
-    margin-left: 650px;
+    margin-left: 520px;
 }
 
 td{
